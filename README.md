@@ -1,2 +1,2 @@
 # scissor-paper-rock_game
-game of scissor paper rock between human and computer on console a simple beginner problem
+game of scissor paper rock between human and computer on console a simple beginner  problem for practising basics of javascript.
